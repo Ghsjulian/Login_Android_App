@@ -1,0 +1,23 @@
+[
+  {
+    "artifactId": "volley",
+    "excludes": [],
+    "groupId": "com.android.volley",
+    "scope": "compile",
+    "versionName": "1.2.1"
+  },
+  {
+    "artifactId": "http",
+    "excludes": [],
+    "groupId": "org.apache",
+    "scope": "compile",
+    "versionName": "legacy"
+  },
+  {
+    "artifactId": "apache",
+    "excludes": [],
+    "groupId": "org",
+    "scope": "compile",
+    "versionName": "http.legacy"
+  }
+]
